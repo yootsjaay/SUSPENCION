@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F0F7FF; /* Color relacionado al WiFi/Internet */
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #003366; /* Color relacionado al WiFi/Internet */
+    padding: 20px;
+  }
+  
+ 
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Alinea el texto al centro */
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav li a {
+    color: #FFF;
+    text-decoration: none;
+    padding: 10px;
+  }
+  .container {
+    max-width: 600px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+/*para la imagen*/  
+/* ... Código CSS previo ... */
+
+.sticker {
+    max-width: 200px;
+    margin-bottom: 20px;
+  }
+
+  /*CONTACTO*/
+  /* ... Código CSS previo ... */
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  input[type="submit"] {
+    background-color: #003366;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #002349;
+  }
+  
+  /* ... Código CSS posterior ... */
+  
